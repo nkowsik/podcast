@@ -45,7 +45,7 @@
     <ul>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/how-uber-built-odin-to-handle-38>
+        <a target="_blank" href="https://blog.bytebytego.com/p/how-uber-built-odin-to-handle-38">
         <h2>How Uber Built Odin to Handle 3.8 Million Containers</h2>
         </a>
             
