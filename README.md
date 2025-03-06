@@ -1,10 +1,10 @@
-## Latest Articles
+
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Latest Technology Blog</title>
+    <title>Technology Blog</title>
     <style>
         body {
             font-family: Arial, sans-serif;
