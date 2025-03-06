@@ -45,6 +45,14 @@
     <ul>
 
         <li>
+        <a target="_blank" href="https://blog.bytebytego.com/p/dark-side-of-distributed-systems">
+        <h2>Dark Side of Distributed Systems: Latency and Partition Tolerance</h2>
+        </a>
+            
+            <p><span class="company">ByteByteGo</span>: Distributed systems are collections of independent computing resources that work together to present a unified, cohesive service or application to the user.</p>
+        </li>
+
+        <li>
         <a target="_blank" href="https://blog.bytebytego.com/p/how-uber-built-odin-to-handle-38">
         <h2>How Uber Built Odin to Handle 3.8 Million Containers</h2>
         </a>
@@ -53,7 +61,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/ep152-30-free-apis-for-developers>
+        <a target="_blank" href="https://blog.bytebytego.com/p/ep152-30-free-apis-for-developers">
         <h2>EP152: 30 Free APIs for Developers</h2>
         </a>
             
@@ -61,7 +69,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/mastering-data-consistency-across>
+        <a target="_blank" href="https://blog.bytebytego.com/p/mastering-data-consistency-across">
         <h2>Mastering Data Consistency Across Microservices</h2>
         </a>
             
@@ -69,7 +77,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/how-amazon-s3-stores-350-trillion>
+        <a target="_blank" href="https://blog.bytebytego.com/p/how-amazon-s3-stores-350-trillion">
         <h2>How Amazon S3 Stores 350 Trillion Objects with 11 Nines of Durability</h2>
         </a>
             
@@ -77,7 +85,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn>
+        <a target="_blank" href="https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn">
         <h2>EP151: 24 Good Resources to Learn Software Architecture in 2025</h2>
         </a>
             
@@ -85,7 +93,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/non-functional-requirements-the-backbone-7db>
+        <a target="_blank" href="https://blog.bytebytego.com/p/non-functional-requirements-the-backbone-7db">
         <h2>Non-Functional Requirements: The Backbone of Great Software - Part 2</h2>
         </a>
             
@@ -93,7 +101,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/how-instagram-scaled-its-infrastructure>
+        <a target="_blank" href="https://blog.bytebytego.com/p/how-instagram-scaled-its-infrastructure">
         <h2>How Instagram Scaled Its Infrastructure To Support a Billion Users</h2>
         </a>
             
@@ -101,7 +109,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/ep150-12-algorithms-for-system-design>
+        <a target="_blank" href="https://blog.bytebytego.com/p/ep150-12-algorithms-for-system-design">
         <h2>EP150: 12 Algorithms for System Design Interviews</h2>
         </a>
             
@@ -109,7 +117,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/non-functional-requirements-the-backbone>
+        <a target="_blank" href="https://blog.bytebytego.com/p/non-functional-requirements-the-backbone">
         <h2>Non-Functional Requirements: The Backbone of Great Software - Part 1</h2>
         </a>
             
@@ -117,7 +125,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/how-netflix-built-a-distributed-counter>
+        <a target="_blank" href="https://blog.bytebytego.com/p/how-netflix-built-a-distributed-counter">
         <h2>How Netflix Built a Distributed Counter for Billions of User Interactions</h2>
         </a>
             
@@ -125,7 +133,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/ep149-jwt-101-key-to-stateless-authentication>
+        <a target="_blank" href="https://blog.bytebytego.com/p/ep149-jwt-101-key-to-stateless-authentication">
         <h2>EP149: JWT 101: Key to Stateless Authentication</h2>
         </a>
             
@@ -133,7 +141,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/mastering-idempotency-building-reliable>
+        <a target="_blank" href="https://blog.bytebytego.com/p/mastering-idempotency-building-reliable">
         <h2>Mastering Idempotency: Building Reliable APIs</h2>
         </a>
             
@@ -141,7 +149,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/how-google-spanner-powers-trillions>
+        <a target="_blank" href="https://blog.bytebytego.com/p/how-google-spanner-powers-trillions">
         <h2>How Google Spanner Powers Trillions of Rows with 5 Nines Availability</h2>
         </a>
             
@@ -149,7 +157,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/ep148-deepseek-1-pager>
+        <a target="_blank" href="https://blog.bytebytego.com/p/ep148-deepseek-1-pager">
         <h2>EP148: DeepSeek 1-Pager</h2>
         </a>
             
@@ -157,7 +165,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/clean-architecture-101-building-software>
+        <a target="_blank" href="https://blog.bytebytego.com/p/clean-architecture-101-building-software">
         <h2>Clean Architecture 101: Building Software That Lasts</h2>
         </a>
             
@@ -165,7 +173,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/aws-lambda-turns-10>
+        <a target="_blank" href="https://blog.bytebytego.com/p/aws-lambda-turns-10">
         <h2>AWS Lambda Turns 10</h2>
         </a>
             
@@ -173,7 +181,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/ep147-the-ultimate-api-learning-roadmap>
+        <a target="_blank" href="https://blog.bytebytego.com/p/ep147-the-ultimate-api-learning-roadmap">
         <h2>EP147: The Ultimate API Learning Roadmap</h2>
         </a>
             
@@ -181,7 +189,7 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/top-strategies-to-reduce-latency>
+        <a target="_blank" href="https://blog.bytebytego.com/p/top-strategies-to-reduce-latency">
         <h2>Top Strategies to Reduce Latency</h2>
         </a>
             
@@ -189,19 +197,11 @@
         </li>
 
         <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/how-linkedin-scaled-user-restriction>
+        <a target="_blank" href="https://blog.bytebytego.com/p/how-linkedin-scaled-user-restriction">
         <h2>How LinkedIn Scaled User Restriction System to 5 Million Queries Per Second</h2>
         </a>
             
             <p><span class="company">ByteByteGo</span>: Disclaimer: The details in this post have been derived from the LinkedIn Engineering Blog.</p>
-        </li>
-
-        <li>
-        <a target="_blank" href=https://blog.bytebytego.com/p/our-new-coding-patterns-youtube-channel>
-        <h2>Our New Coding Patterns YouTube channel</h2>
-        </a>
-            
-            <p><span class="company">ByteByteGo</span>: Our New Coding Patterns YouTube channel</p>
         </li>
 
     </ul>
